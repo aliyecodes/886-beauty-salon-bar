@@ -73,11 +73,15 @@
     />
   </head>
   <body class="relative min-h-screen overflow-x-hidden">
-    <img
+    <div
       class="fixed top-0 left-0 w-full h-full object-cover object-[center_top] md:object-cover z-0 pointer-events-none"
-      alt="886 background"
-      style="background-image: url('/assets/immagini/wallpaper-optimized.jpg');"
-    />
+      style="
+        background-image: url('/assets/immagini/wallpaper-optimized.jpg');
+        background-size: cover;
+        background-position: center top;
+        background-repeat: no-repeat;
+      "
+    ></div>
 
     <div class="relative z-10">
       <header class="bg-primary py-8 px-4">
