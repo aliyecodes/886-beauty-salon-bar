@@ -2,6 +2,11 @@
 ## 886 Beauty Salon & Bar - Menù Digitale
 
 Questo progetto è una **pagina HTML responsive** sviluppata per presentare il menù digitale del locale *886 Beauty Salon & Bar*.
+A responsive and visually appealing static website for a fictional beauty salon and bar.
+
+---
+
+> **🔗 Live Demo:** [Visit the website](https://aliyecodes.github.io/886-beauty-salon-bar/)
 
 ---
 
@@ -34,7 +39,6 @@ Questo progetto è una **pagina HTML responsive** sviluppata per presentare il m
 
 ## Grafica e Design
   Background della pagina e immagini di sfondo per la sezione Kubi sono stati progettati personalmente con Canva per mantenere coerenza visiva con l'identità estetica del locale.
-
   Le immagini degli altri piatti provengono da Unsplash (vedi elenco sotto) e sono state fornite dal referente all’inizio del progetto.
 
 ---
